@@ -6,7 +6,7 @@ import os, re, shutil, subprocess, sys, tempfile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CSRC = os.path.join(ROOT, "upstream", "commonweave_zero", "c_src")
-HARNESS = os.path.join(ROOT, "proofs", "c_exhaustive", "harness.c")
+HARNESS = os.path.join(ROOT, "tests", "c_exhaustive", "harness.c")
 
 # (nombre, archivo, texto original, texto mutado)
 MUTANTS = [
