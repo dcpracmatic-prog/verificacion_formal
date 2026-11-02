@@ -1,5 +1,4 @@
 [![Dependency Graph](https://github.com/dcpracmatic-prog/verificacion_formal/actions/workflows/dependabot/update-graph/badge.svg)](https://github.com/dcpracmatic-prog/verificacion_formal/actions/workflows/dependabot/update-graph)
-[![CI — pruebas y regresión](https://github.com/dcpracmatic-prog/verificacion_formal/actions/workflows/ci.yml/badge.svg)](https://github.com/dcpracmatic-prog/verificacion_formal/actions/workflows/ci.yml)
 
 # verificacion-formal — hacia software demostrablemente correcto
 
